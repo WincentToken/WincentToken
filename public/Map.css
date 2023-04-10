@@ -1,0 +1,130 @@
+/*map*/
+
+.cls-1,.cls-36,.cls-4{
+    fill:none;
+}
+.cls-2{
+    clip-path:url(#clip-path);
+}
+.cls-3{
+    fill:#00c5ff;
+}
+.cls-10,.cls-3,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{
+    fill-rule:evenodd;
+}
+.cls-4{
+    stroke:#fff;
+    stroke-width:0.48px;
+}
+.cls-36,.cls-4{
+    stroke-linecap:square;
+    stroke-miterlimit:10;
+}
+.cls-5{
+    fill:#b4e600;
+}
+.cls-6{
+    fill:#ff8c00;
+}
+.cls-7{
+    fill:#ff0059;
+}
+.cls-8{
+    fill:#a34db3;
+}
+.cls-9{
+    fill:#2962ff;
+}
+.cls-10{
+    fill:#0fffdb;
+}
+.cls-11,.cls-19,.cls-23{
+    font-size:21.87px;
+    font-family:"Fira Code Light";
+    font-weight:700;
+}
+.cls-11,.cls-20{
+    letter-spacing:0em;
+}
+.cls-12{
+    letter-spacing:0em;
+}
+.cls-13{
+    letter-spacing:0em;
+}
+.cls-14{
+    letter-spacing:0em;
+}
+.cls-15{
+    letter-spacing:0em;
+}
+.cls-16{
+    letter-spacing:0.01em;
+}
+.cls-17{
+    letter-spacing:0.01em;
+}
+.cls-18{
+    letter-spacing:0em;
+}
+.cls-21{
+    letter-spacing:0.01em;
+}
+.cls-22{
+    letter-spacing:0em;
+}
+.cls-23{
+    letter-spacing:0em;
+}
+.cls-24{
+    letter-spacing:0em;
+}
+.cls-25{
+    letter-spacing:0em;
+}
+.cls-26{
+    letter-spacing:-0.04em;
+}
+.cls-27{
+    letter-spacing:0.01em;
+}
+.cls-28{
+    letter-spacing:0em;
+}
+.cls-29{
+    letter-spacing:0.01em;
+}
+.cls-30{
+    letter-spacing:0em;
+}
+.cls-31{
+    letter-spacing:0.01em;
+}
+.cls-32{
+    letter-spacing:0.01em;
+}
+.cls-33{
+    letter-spacing:0em;
+}
+.cls-34{
+    letter-spacing:0.01em;
+}
+.cls-35{
+    letter-spacing:0em;
+}
+.cls-36{
+    stroke:#000;stroke-width:0.96px;
+}
+
+/*map*/
+
+path:hover{
+    fill: silver;
+    cursor:pointer;
+}
+
+.box1{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
